@@ -88,7 +88,6 @@ print("Religion:Islam")
 print("Nationality:Paksitan")
 
 
-# In[ ]:
 
 
 
